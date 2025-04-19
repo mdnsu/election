@@ -1,0 +1,152 @@
+.header-bg {
+    height: 343px;
+    width: 100%;
+    background: #212329;
+    z-index: -1;
+    position: absolute;
+}
+
+.header-inner-bg {
+    background: #212329;
+    height: 100%;
+    width: 100%;
+}
+
+header {
+    z-index: 1;
+    position: relative;
+}
+
+section {
+    margin-bottom: 46px;
+}
+
+.container {
+    width: 1530px;
+    margin: 0px auto;
+}
+
+.header-upper-inner {
+    /*background: lightblue;*/
+    padding-top: 18px;
+}
+
+#burger-icon {
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 18px;
+}
+
+.deco-blog {
+    float: left;
+    width: 163px;
+}
+
+.deco {
+    float: left;
+}
+
+.blog {
+    float: left;
+    padding-left: 10px;
+}
+
+.deco-social-link-wrapper {
+    width: 813px;
+    float: right;
+}
+
+.social-links {
+    float: right;
+}
+
+.header-lower-left {
+    padding-top: 26px;
+    padding-left: 30px;
+    float: left;
+    width: 230px;
+}
+
+.header-lower-right {
+    float: right;
+    width: 1270px;
+    padding-top: 26px;
+}
+
+.header-lower {
+    background: #F9F9FB;
+}
+
+.col2-r-right {
+    background: #F9F9FB;
+}
+
+
+.col2-r-right-left {
+    float: left;
+    width: 1140px;
+}
+
+.body-image {
+    background-color: #3A3C49;
+    height: 487px;
+    background-repeat: no-repeat;
+    margin-bottom: 83px;
+    position: relative;
+}
+
+.body-content {
+    background-image: url('../images/body-bg.png');
+}
+
+.prev-next {
+    margin-bottom: 60px;
+}
+
+.prev-button {
+    float: left;
+    width: 554px;
+    height: 139px;
+    background: #000000;
+}
+
+.next-button {
+    float: right;
+    width: 554px;
+    height: 139px;
+    background: #3A3C49;
+}
+
+.body-content-nav {
+    margin-bottom: 59px;
+}
+
+.all-post {
+    margin-bottom: 19px;
+}
+
+.all-post-left {
+    float: left;
+    width: 208px;
+    height: 170px;
+    background: #0B0D0F;
+}
+
+.all-post-right {
+    float: right;
+    width: 932px;
+    background: #ffffff;
+    /*height: 90px;*/
+}
+
+.recom-posts {
+    width: 100%;
+}
+
+.recom-posts-inner {
+    width: 1079px;
+    margin: 0 auto;
+    background: #ffffff;
+    padding-top: 47px;
+    padding-bottom: 47px;
+}
